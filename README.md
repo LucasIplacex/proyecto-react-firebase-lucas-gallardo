@@ -92,7 +92,7 @@ Es posible instalar la aplicación en un dispositivo Android mediante el archivo
 
 10. Respaldo de la información
 
-El código fuente completo del proyecto se encuentra almacenado en un repositorio público de GitHub, disponible en el siguiente enlace: https://github.com/LucasIplacex/proyecto-react-firebase-lucas-gallardo
+El código fuente completo del proyecto se encuentra almacenado en un repositorio público de GitHub, disponible en el siguiente enlace: www.ejemplo.com
 
 11. Autor del proyecto
 
